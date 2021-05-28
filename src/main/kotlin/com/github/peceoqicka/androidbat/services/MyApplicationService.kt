@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.peceoqicka.androidbat.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.peceoqicka.androidbat.MyBundle
 
 class MyApplicationService {
 
